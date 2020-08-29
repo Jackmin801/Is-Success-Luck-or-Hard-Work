@@ -8,5 +8,5 @@ Analysis inspired by: https://www.youtube.com/watch?v=3LopI4YeC4I&amp;t
 <p>The conclusion is in the last cell of the notebeooks for those not interested in the code that generated the simulation.</p>
 
 # Index
-Experiment - Does the 95:5 contribution ratio of skill and luck hold for the top 11?
-Experiment2 - How different would the selection be if there was no luck?
+<p>Experiment - Does the 95:5 contribution ratio of skill and luck hold for the top 11?</p>
+<p>Experiment2 - How different would the selection be if there was no luck?</p>
